@@ -1,0 +1,44 @@
+[
+    {
+        "origin": "manglayang",
+        "proses": "honey",
+        "harga": 220,
+        "stock": 9000,
+        "roaster": "herd"
+    },
+    {
+        "origin": "flores",
+        "proses": "washed",
+        "harga": 175,
+        "stock": 6500,
+        "roaster": "fugol"
+    },
+    {
+        "origin": "palintang",
+        "proses": "natural",
+        "harga": 180,
+        "stock": 11000,
+        "roaster": "ttkr"
+    },
+    {
+        "origin": "gayo",
+        "proses": "natural",
+        "harga": 210,
+        "stock": 7000,
+        "roaster": "ttkr"
+    },
+    {
+        "origin": "garut",
+        "proses": "washed",
+        "harga": 150,
+        "stock": 2000,
+        "roaster": "fugol"
+    },
+    {
+        "origin": "toraja",
+        "proses": "washed",
+        "harga": 160,
+        "stock": 2000,
+        "roaster": "herd"
+    }
+]
